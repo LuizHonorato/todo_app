@@ -35,6 +35,4 @@ const TodoList = ({todos, markAsDone, markAsPending, remove, dispatch, visibilit
     )
 }
 
-const mapStateToProps = state => ({visibilityFilter: state.visibilityFilter})
-
-export default connect(mapStateToProps, null)(TodoList)
+export default connect()(TodoList)
