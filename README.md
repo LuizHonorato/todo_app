@@ -13,7 +13,7 @@ O app foi criado com a utilização das seguintes ferramentas:
 
 # Execução
 
-No diretória de sua escolha siga os seguintes passos:
+No diretório de sua escolha siga os seguintes passos:
 
 - git clone https://github.com/LuizHonorato/todo_app.git
 - npm i
